@@ -1,7 +1,9 @@
 # login-Vue-Firebase
+First Install Vue
+
 Login vue firebase
 
-Simplle connect login vue firebase
+Simple connect login vue firebase
 
 You accede to base and create a new project
 
